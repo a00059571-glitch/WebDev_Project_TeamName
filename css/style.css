@@ -27,7 +27,7 @@ p {
   background-color: rgb(171, 210, 232);
 }
 
-div {
+#WithPadding {
     padding: 10px;
     border: 5px;
     border-style: solid;
