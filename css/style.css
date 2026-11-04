@@ -22,3 +22,14 @@ p {
     font: size 20px;
 }
 
+
+.BlueHeading{
+  background-color: rgb(171, 210, 232);
+}
+
+div {
+    padding: 10px;
+    border: 5px;
+    border-style: solid;
+    border-color: rgb(244, 245, 249);
+}
