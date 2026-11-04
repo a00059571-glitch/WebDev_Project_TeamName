@@ -34,10 +34,13 @@ p {
     border-color: rgb(244, 245, 249);
 }
 
-#bgposition {
+body {
  background-image: url("https://cdn.pixabay.com/photo/2021/09/12/07/58/banner-6617553__480.jpg");
  background-position: right bottom;
  background-repeat: no-repeat;
  background-size: cover;
-height: 220px;
+}
+
+#bgposition {
+    height: 200px;
 }
