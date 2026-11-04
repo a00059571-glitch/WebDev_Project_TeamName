@@ -31,16 +31,15 @@ p {
     padding: 10px;
     border: 5px;
     border-style: solid;
-    border-color: rgb(244, 245, 249);
+    border-color: rgb(84, 116, 243);
 }
 
-body {
+#bgposition {
+background-color: rgb(235, 239, 241);
  background-image: url("https://cdn.pixabay.com/photo/2021/09/12/07/58/banner-6617553__480.jpg");
  background-position: right bottom;
  background-repeat: no-repeat;
  background-size: cover;
+ height: 500px;
 }
 
-#bgposition {
-    height: 200px;
-}
