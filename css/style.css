@@ -34,12 +34,15 @@ p {
     border-color: rgb(84, 116, 243);
 }
 
-#bgposition {
+body {
 background-color: rgb(235, 239, 241);
  background-image: url(file:///c%3A/Users/chenm/Downloads/cocoparisienne-snow-496875_1280.jpg);
  background-position: right bottom;
  background-repeat: no-repeat;
  background-size: cover;
- height: 500px;
+}
+
+#bgimage {
+    height: 500px;
 }
 
