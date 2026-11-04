@@ -33,3 +33,12 @@ p {
     border-style: solid;
     border-color: rgb(244, 245, 249);
 }
+
+#bgcolor{
+  background-color: rgb(34, 0, 128);
+}
+
+#bgimage{
+  color: white;
+  background-image: url("https://cdn.pixabay.com/photo/2021/09/12/07/58/banner-6617553__480.jpg");
+};
