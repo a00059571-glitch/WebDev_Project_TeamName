@@ -43,7 +43,7 @@ p {
 }
 
 body {
- background-image: url(cocoparisienne-snow-496875_1280.jpg);
+ background-image: url("../cocoparisienne-snow-496875_1280.jpg");
  background-repeat: no-repeat;
  background-size: cover;
 }
