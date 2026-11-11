@@ -44,7 +44,7 @@ p {
 
 body {
 
-background-image :url("istockphoto-175591174-612x612.jpg");
+background-image: url("./istockphoto-175591174-612x612.jpg");
 background-repeat: no-repeat;
 background-size: cover;
 }
