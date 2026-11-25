@@ -50,7 +50,7 @@ background-size: cover;
 }
 
 .button {
-  transition-duration: 0.4s;
+  transition: 0.3s ease;
 }
 
 .button:hover {
