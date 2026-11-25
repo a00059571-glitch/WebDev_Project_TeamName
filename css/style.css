@@ -57,4 +57,10 @@ background-size: cover;
   background-color: #00b7ff;
 }
 
+@media (orientation: landscape), (max-width: 600px) {
+    div{
+        background-color: blue;
+        }
+}
+
 
