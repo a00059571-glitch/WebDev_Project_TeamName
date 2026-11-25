@@ -59,12 +59,19 @@ background-size: cover;
   background-color: #e12323;
 }
 
-@media (orientation: landscape), (max-width: 600px) {
-    div{
-        background-image: none;
-        background-color: rgb(0, 157, 255);
-        size-adjust: unset;
-        }
+@media only screen and (min-width: 600px) {
+  body{
+    background-color: rgb(130, 221, 224);
+  }
 }
+
+@media only screen and (min-width: 1024) {
+  body{
+    background-color: rgb(100, 126, 141);
+  }
+}
+
+
+
 
 
