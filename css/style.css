@@ -54,7 +54,8 @@ background-size: cover;
 }
 
 .button:hover {
-  background-color: #00b7ff;
+  background-color: #00a2ff;
+  color:rgb(41, 91, 227);
 }
 
 @media (orientation: landscape), (max-width: 600px) {
