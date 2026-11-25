@@ -60,7 +60,7 @@ button{
 
 button:hover{
   background-color:rgb(71, 71, 251);
-  transition: 2s;
+  transition: 0.3s;
 }
 
 @media only screen and (min-width: 600px) {
