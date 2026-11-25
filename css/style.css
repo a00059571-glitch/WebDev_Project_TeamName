@@ -55,13 +55,14 @@ background-size: cover;
 }
 
 .button:hover {
-  background-color: #00a2ff;
+  background-color: #ffffff;
 }
 
 @media (orientation: landscape), (max-width: 600px) {
     div{
         background-image: none;
         background-color: rgb(0, 157, 255);
+        size-adjust: unset;
         }
 }
 
