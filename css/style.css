@@ -51,11 +51,12 @@ background-size: cover;
 
 .button {
   transition: 0.3s ease;
-  background-color: #ffffff;
+  background-color: #5650a8;
+  color:#ffffff
 }
 
 .button:hover {
-  background-color: #ffffff;
+  background-color: #e12323;
 }
 
 @media (orientation: landscape), (max-width: 600px) {
